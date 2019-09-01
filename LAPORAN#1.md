@@ -40,9 +40,9 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/contoh-schot1.PNG)
+![schot.1](img/schot1.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Contoh link kode program : [ini contoh link ke kode program](D:\CLASS 2 SMT 3\PBO\Jobsheet 1\Jobsheet1PBO\src\SepedaDemo1841720143.java)
 
 ## Kesimpulan
 
