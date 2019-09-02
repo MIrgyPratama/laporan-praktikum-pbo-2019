@@ -64,7 +64,7 @@ Contoh link kode program : [ini contoh link ke kode program](D:\CLASS 2 SMT 3\PB
 
 Dalam percobaan ini, terdapat turunan/warisan dari class Sepeda.Pada dasarnnya sama,tetapi bedanya terdapat tipe suspensi.Jadi kita tidak perlu membuat class SepedaGunung dari awal,karena sudah terodapat warisan/turunana dari class sepeda 
 
-![schot2](img/schot2.PNG)
+![schot2](img/schot2.png)
 
 Contoh link kode program : [ini contoh link ke kode program](D:\CLASS 2 SMT 3\PBO\Jobsheet 1\Jobsheet1PBO\src\SepedaGunung1841720143Irgy.java)
 
@@ -115,7 +115,7 @@ Contoh link kode program : [ini contoh link ke kode program](D:\CLASS 2 SMT 3\PB
 
 ## Tugas
 
-![schot3](img/schot3.PNG)
+![schot3](img/schot3.png)
 
 Contoh link kode program : [ini contoh link ke kode program](D:\CLASS 2 SMT 3\PBO\Jobsheet 1\Jobsheet1PBO\src\T1HewanDemo1841720143Irgy.java)
 
