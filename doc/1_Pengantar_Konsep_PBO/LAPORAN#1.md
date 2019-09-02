@@ -58,7 +58,7 @@ Kita dapat mengetahui pengurangan dan pertambahan kecepatan jika terjadi pergant
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![schot_3](img/schot_3.PNG)
+![schot1](img/schot1.PNG)
 
 Contoh link kode program : [ini contoh link ke kode program](D:\CLASS 2 SMT 3\PBO\Jobsheet 1\Jobsheet1PBO\src\SepedaDemo1841720143.java)
 
@@ -66,7 +66,7 @@ Contoh link kode program : [ini contoh link ke kode program](D:\CLASS 2 SMT 3\PB
 
 Dalam percobaan ini, terdapat turunan/warisan dari class Sepeda.Pada dasarnnya sama,tetapi bedanya terdapat tipe suspensi.Jadi kita tidak perlu membuat class SepedaGunung dari awal,karena sudah terodapat warisan/turunana dari class sepeda 
 
-![schot_1](img/schot_1.PNG)
+![schot2](img/schot2.PNG)
 
 Contoh link kode program : [ini contoh link ke kode program](D:\CLASS 2 SMT 3\PBO\Jobsheet 1\Jobsheet1PBO\src\SepedaGunung1841720143Irgy.java)
 
@@ -117,7 +117,7 @@ Contoh link kode program : [ini contoh link ke kode program](D:\CLASS 2 SMT 3\PB
 
 ## Tugas
 
-![schot_2](img/schot_2.PNG)
+![schot3](img/schot3.PNG)
 
 Contoh link kode program : [ini contoh link ke kode program](D:\CLASS 2 SMT 3\PBO\Jobsheet 1\Jobsheet1PBO\src\T1HewanDemo1841720143Irgy.java)
 
