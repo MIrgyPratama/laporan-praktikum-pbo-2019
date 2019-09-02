@@ -56,8 +56,6 @@ Bujursangkar luas
 
 Kita dapat mengetahui pengurangan dan pertambahan kecepatan jika terjadi pergantian gear dan pengeriman rem.
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
-
 ![schot1](img/schot1.PNG)
 
 Contoh link kode program : [ini contoh link ke kode program](D:\CLASS 2 SMT 3\PBO\Jobsheet 1\Jobsheet1PBO\src\SepedaDemo1841720143.java)
@@ -108,7 +106,7 @@ Contoh link kode program : [ini contoh link ke kode program](D:\CLASS 2 SMT 3\PB
 
 4. Ada atribut : Merk , Kecepatan dan Gear
 
-5. (D:\CLASS 2 SMT 3\PBO\Jobsheet                   1\Jobsheet1PBO\src\Sepeda1841720143Irgy.java)
+5. (D:\CLASS 2 SMT 3\PBO\Jobsheet1\Jobsheet1PBO\src\Sepeda1841720143Irgy.java)
 
 6. Karena class SepedaGunung memiliki suatu komponen tambahan (tipe suspensi). maka kita tidak perlu membuat  class baru, karena hanya mewariskan dari class sepeda saja
 
