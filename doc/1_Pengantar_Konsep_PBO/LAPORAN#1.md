@@ -106,8 +106,8 @@ Link kode program Demo          : [Klik](../../src/1_Pengantar_Konsep_PBO/Sepeda
 
 4. Ada atribut : Merk , Kecepatan dan Gear
 
-5. Contoh link kode program : [Klik](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720143Irgy.java)
-                              [Klik](../../src/1_Pengantar_Konsep_PBO/SepedaD1841720143Irgy.java)
+5. Contoh link kode program : [Klik1](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720143Irgy.java)
+                              [Klik2](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720143Irgy.java)
 
 6. Karena class SepedaGunung memiliki suatu komponen tambahan (tipe suspensi). maka kita tidak perlu membuat  class baru, karena hanya mewariskan dari class sepeda saja
 
