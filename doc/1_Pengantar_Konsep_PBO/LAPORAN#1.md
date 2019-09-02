@@ -58,15 +58,15 @@ Kita dapat mengetahui pengurangan dan pertambahan kecepatan jika terjadi pergant
 
 ![schot1](img/schot1.png)
 
-Link kode program Sepeda : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda18417204Irgy.java)
+Link kode program Sepeda : [Klik](../../src/1_Pengantar_Konsep_PBO/Sepeda18417204Irgy.java)
 ### Percobaan 2
 
 Dalam percobaan ini, terdapat turunan/warisan dari class Sepeda.Pada dasarnnya sama,tetapi bedanya terdapat tipe suspensi.Jadi kita tidak perlu membuat class SepedaGunung dari awal,karena sudah terodapat warisan/turunana dari class sepeda 
 
 ![schot2](img/schot2.png)
 
-Link kode program Sepeda Gunung : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung18417204Irgy.java)
-Link kode program Demo          : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo18417204Irgy.java)
+Link kode program Sepeda Gunung : [Klik](../../src/1_Pengantar_Konsep_PBO/SepedaGunung18417204Irgy.java)
+Link kode program Demo          : [Klik](../../src/1_Pengantar_Konsep_PBO/SepedaDemo18417204Irgy.java)
 
 ## Pertanyaan
 
@@ -106,7 +106,7 @@ Link kode program Demo          : [ini contoh link ke kode program](../../src/1_
 
 4. Ada atribut : Merk , Kecepatan dan Gear
 
-5. Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda18417204Irgy.java)
+5. Contoh link kode program : [Klik](../../src/1_Pengantar_Konsep_PBO/Sepeda18417204Irgy.java)
 
 6. Karena class SepedaGunung memiliki suatu komponen tambahan (tipe suspensi). maka kita tidak perlu membuat  class baru, karena hanya mewariskan dari class sepeda saja
 
@@ -117,9 +117,9 @@ Link kode program Demo          : [ini contoh link ke kode program](../../src/1_
 
 ![schot3](img/schot3.png)
 
-Contoh link kode program Hewan      : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/T1Hewan1841720143Irgy.java)
-Contoh link kode program Demo       : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/T1HewanDemo1841720143Irgy.java)
-Contoh link kode program Hewan Lain : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/T1HewanLain1841720143Irgy.java)
+Contoh link kode program Hewan      : [Klik](../../src/1_Pengantar_Konsep_PBO/T1Hewan1841720143Irgy.java)
+Contoh link kode program Demo       : [Klik](../../src/1_Pengantar_Konsep_PBO/T1HewanDemo1841720143Irgy.java)
+Contoh link kode program Hewan Lain : [Klik](../../src/1_Pengantar_Konsep_PBO/T1HewanLain1841720143Irgy.java)
 
 ## Kesimpulan
  Pemrograman Berorientasi Objek (Object Oriented Programming atau OOP) merupakan pemrograman yang berorientasikan kepada objek.PBO merupakan pemrograman yang cukup dominan sekarang,karena mampu memberikan solusi dalam pemrograman modern.
