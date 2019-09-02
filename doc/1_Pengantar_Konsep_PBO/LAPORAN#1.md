@@ -56,7 +56,7 @@ Bujursangkar luas
 
 Kita dapat mengetahui pengurangan dan pertambahan kecepatan jika terjadi pergantian gear dan pengeriman rem.
 
-![schot1](img/schot1.PNG)
+![schot1](img/schot1.png)
 
 Contoh link kode program : [ini contoh link ke kode program](D:\CLASS 2 SMT 3\PBO\Jobsheet 1\Jobsheet1PBO\src\SepedaDemo1841720143.java)
 
@@ -70,12 +70,12 @@ Contoh link kode program : [ini contoh link ke kode program](D:\CLASS 2 SMT 3\PB
 
 ## Pertanyaan
 
-1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman    berorientasi objek! 
-2. Apa yang dimaksud dengan object dan apa bedanya dengan         class? 
-3. Sebutkan salah satu kelebihan utama dari pemrograman           berorientasi objek dibandingkan dengan pemrograman             struktural! 
+1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek! 
+2. Apa yang dimaksud dengan object dan apa bedanya dengan class? 
+3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan dengan pemrograman struktural! 
 4. Pada class Sepeda, terdapat state/atribut apa saja? 
 5. Tambahkan atribut warna pada class Sepeda. 
-6. Mengapa pada saat kita membuat class SepedaGunung, kita        tidak perlu membuat class nya dari nol? 
+6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol? 
 
 ## Jawaban
 
@@ -96,11 +96,11 @@ Contoh link kode program : [ini contoh link ke kode program](D:\CLASS 2 SMT 3\PB
 - Sedangkan Object adalah pemanfaatan dari class yang siap untuk digunakan, misalnya kita sudah membuat class Roda, yang di dalamnya itu berisi konsep bagaimana Roda itu bisa berjalan,bagaimana Roda itu bisa berputar dan lain-lain, jika semua konsep Roda sudah oke, barulah kita akan dirubah menjadi sebuah Roda yang siap untuk dipakai
 
 3. 
-- Dalam menggunakan sebuah class cukup sekali tidak perlu               dituis berkali-kali.
+- Dalam menggunakan sebuah class cukup sekali tidak perlu dituis berkali-kali.
 
 - Dapat menambahkan fitur pada class tanpa mengedit class asal.
 
-- Menggunakan objek tanpa harus tahu teknis yang ada                    didalamnya.
+- Menggunakan objek tanpa harus tahu teknis yang ada didalamnya.
 
 - Data yang digunakan dalam bentuk private hanya bisa di akses   oleh fungsi lokasi, sehingga tidak perlu khawatir untuk        berpengaruh pada fungsi lainnya.
 
