@@ -58,15 +58,15 @@ Kita dapat mengetahui pengurangan dan pertambahan kecepatan jika terjadi pergant
 
 ![schot1](img/schot1.png)
 
-Link kode program Sepeda : [Klik](../../src/1_Pengantar_Konsep_PBO/Sepeda18417204Irgy.java)
+Link kode program Sepeda : [Klik](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720143Irgy.java)
 ### Percobaan 2
 
 Dalam percobaan ini, terdapat turunan/warisan dari class Sepeda.Pada dasarnnya sama,tetapi bedanya terdapat tipe suspensi.Jadi kita tidak perlu membuat class SepedaGunung dari awal,karena sudah terodapat warisan/turunana dari class sepeda 
 
 ![schot2](img/schot2.png)
 
-Link kode program Sepeda Gunung : [Klik](../../src/1_Pengantar_Konsep_PBO/SepedaGunung18417204Irgy.java)
-Link kode program Demo          : [Klik](../../src/1_Pengantar_Konsep_PBO/SepedaDemo18417204Irgy.java)
+Link kode program Sepeda Gunung : [Klik](../../src/1_Pengantar_Konsep_PBO/SepedaGunung1841720143Irgy.java)
+Link kode program Demo          : [Klik](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720143Irgy.java)
 
 ## Pertanyaan
 
@@ -106,7 +106,7 @@ Link kode program Demo          : [Klik](../../src/1_Pengantar_Konsep_PBO/Sepeda
 
 4. Ada atribut : Merk , Kecepatan dan Gear
 
-5. Contoh link kode program : [Klik](../../src/1_Pengantar_Konsep_PBO/Sepeda18417204Irgy.java)
+5. Contoh link kode program : [Klik](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720143Irgy.java)
 
 6. Karena class SepedaGunung memiliki suatu komponen tambahan (tipe suspensi). maka kita tidak perlu membuat  class baru, karena hanya mewariskan dari class sepeda saja
 
