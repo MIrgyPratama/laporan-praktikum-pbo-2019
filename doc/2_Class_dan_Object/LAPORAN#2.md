@@ -26,7 +26,7 @@
 
 ### Percobaan 1
 
-Kita dapat mengetahui pengurangan dan pertambahan kecepatan jika terjadi pergantian gear dan pengeriman rem.
+
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
