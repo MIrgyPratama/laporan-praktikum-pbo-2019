@@ -32,7 +32,7 @@ Setelah melakukan percobaan pada modul ini, mahasiswa memahami konsep:
 Didalam percobaan enkapsulasi, buatlah class Motor yang memiliki atribut kecepatan dan kontakOn,
 dan memiliki method printStatus() untuk menampilkan status motor.
 
-![Screenshot](img/P1.PNG)
+![Screenshot](img/P1.png)
 
 Link kode program :
 
