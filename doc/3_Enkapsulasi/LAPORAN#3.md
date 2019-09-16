@@ -45,7 +45,7 @@ Link kode program :
 Pada percobaan ini akan digunakan access modifier untuk memperbaiki cara kerja class Motor pada
 percobaan ke-1.
 
-![Screenshot](img/P2.PNG)
+![Screenshot](img/P2.png)
 
 Link kode program :
 
@@ -55,7 +55,7 @@ Link kode program :
 
 ## Pertanyaan
 
-1. Pada class TestMobil, saat kita menambah kecepatan untuk           pertama kalinya, 
+1. Pada class TestMobil, saat kita menambah kecepatan untuk pertama kalinya, 
    mengapa muncul peringatan “Kecepatan tidak bisa bertambah karena Mesin Off!”? 
    Jawab  : 
    -  Karena di ketika KontakOn == false maka syntax else akan di jalankan. 
@@ -70,14 +70,14 @@ Link kode program :
 
    [MotorDemo1841720143Irgy.java](../../src/3_Enkapsulasi/MotorDemo1841720143Irgy.java)
 
-   - ![Screenshot](img/PP2.PNG)
+   - ![Screenshot](img/PP2.png)
   
   
 -  ### Percobaan 3
 
 Pada percobaan ini menerapkan getter dan setter
 
-![Screenshot](img/P3.PNG)
+![Screenshot](img/P3.png)
 
 Link kode program :
 
@@ -87,7 +87,7 @@ Link kode program :
 
 - ### Percobaan 4
 
-![Screenshot](img/P4.PNG)
+![Screenshot](img/P4.png)
 
 Link kode program :
 
@@ -147,7 +147,7 @@ Link kode program :
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/T1.PNG)
+![contoh screenshot](img/T1.png)
 
 [T1EncapDemo1841720143Irgy.java](../../src/3_Enkapsulasi/T1EncapDemo1841720143Irgy.java)
 
@@ -165,7 +165,7 @@ Jawab : Karena pada method set age mempunyai parameter yang bernama newAge yang 
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/T3.PNG)
+![contoh screenshot](img/T3.png)
 
 [T1EncapDemo1841720143Irgy.java](../../src/3_Enkapsulasi/T1EncapDemo1841720143Irgy.java)
 
@@ -174,7 +174,7 @@ Jawab : Karena pada method set age mempunyai parameter yang bernama newAge yang 
 
 ## Tugas 4
 
-![contoh screenshot](img/T4.PNG)
+![contoh screenshot](img/T4.png)
 
 [T4Anggota1841720143Irgy.java](../../src/3_Enkapsulasi/T4Anggota1841720143Irgy.java)
 
@@ -182,7 +182,7 @@ Jawab : Karena pada method set age mempunyai parameter yang bernama newAge yang 
 
 ## Tugas 5
 
-![contoh screenshot](img/T5.PNG)
+![contoh screenshot](img/T5.png)
 
 [T4Anggota1841720143Irgy.java](../../src/3_Enkapsulasi/T4Anggota1841720143Irgy.java)
 
@@ -192,7 +192,7 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 ## Tugas 6
 
-![contoh screenshot](img/T6.PNG)
+![contoh screenshot](img/T6.png)
 
 [T4Anggota1841720143Irgy.java](../../src/3_Enkapsulasi/T4Anggota1841720143Irgy.java)
 
@@ -200,9 +200,9 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 ## Kesimpulan
 
-- Dari percobaan diatas, kita telah mempelajari konsep dari          enkapsulasi, kontruktor, access modifier yang terdiri dari 4       jenis yaitu public, protected, default dan private. 
-- kita dapat memahami Konsep atribut atau method class yang ada di   dalam blok code class dan konsep instansiasi atribut atau          method. 
-- Kita dapat memahami Cara penggunaan getter dan setter beserta      fungsi dari getter dan setter. Dan juga telah dipelajari atau      memahami notasi UML.
+- Dari percobaan diatas, kita telah mempelajari konsep dari enkapsulasi, kontruktor, access modifier yang terdiri dari 4 jenis yaitu public,        protected, default dan private. 
+- kita dapat memahami Konsep atribut atau method class yang ada di dalam blok code class dan konsep instansiasi atribut atau          method. 
+- Kita dapat memahami Cara penggunaan getter dan setter beserta  fungsi dari getter dan setter. Dan juga telah dipelajari atau memahami notasi UML.
 
 ## Pernyataan Diri
 
