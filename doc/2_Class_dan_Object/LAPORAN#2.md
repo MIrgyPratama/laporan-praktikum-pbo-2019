@@ -13,10 +13,10 @@
 ## Ringkasan Materi
 
 - Class adalah abstraksi dari sebuah object (nyata ataupun tdk nyata) (roger s pressman).
-- Method adalah suatu blok dari program yang berisi kode program nama dan properti yang       dapat digunakan kembali. Method dapat mempunyai nilai balik atau tidak. Kata kunci untuk    mengembalikan/mengeluarkan suatu nilai adalah return 
+- Method adalah suatu blok dari program yang berisi kode program nama dan properti yang dapat digunakan kembali. Method dapat mempunyai nilai balik atau tidak. Kata kunci untuk mengembalikan/mengeluarkan suatu nilai adalah return 
 - Proses pembuatan Object dari suatu Class disebut instansiasi.
-- Untuk menangani error di Java, digunakan sebuah statement yang bernama try - catch.         Statement tersebut digunakan untuk mengurung eksekusi yang menampilkan error dan dapat      membuat program tetap berjalan tanpa dihentikan secara langsung
-- Unified Modeling Language ( UML ) adalah tujuan umum, perkembangan, bahasa pemodelan di     bidang rekayasa perangkat lunak , yang dimaksudkan untuk menyediakan cara standar untuk     memvisualisasikan desain sistem.
+- Untuk menangani error di Java, digunakan sebuah statement yang bernama try - catch. Statement tersebut digunakan untuk mengurung eksekusi yang menampilkan error dan dapat membuat program tetap berjalan tanpa dihentikan secara langsung
+- Unified Modeling Language ( UML ) adalah tujuan umum, perkembangan, bahasa pemodelan di bidang rekayasa perangkat lunak , yang dimaksudkan untuk menyediakan cara standar untuk memvisualisasikan desain sistem.
 - Class diagram adalah sebuah class yang menggambarkan struktur dan penjelasan class, paket, `dan objek serta hubungan satu sama lain seperti pewarisan, asosiasi, dan lainlain.
 
 
@@ -26,11 +26,40 @@
 
 ### Percobaan 1
 
+Pada percobaan pertama adalah membuat class diagram dari suatu studi kasus dan juga beberapa pertanyaan sebagai berikut :
 
+Dalam suatu perusahaan salah satu data yang diolah adalah data karyawan. Setiap karyawan memiliki id, nama, jenis kelamin, jabatan, jabatan, dan gaji. Setiap mahasiswa juga bisa menampilkan data diri pribadi dan melihat gajinya.
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+1. Gambarkan desain class diagram dari studi kasus 1!
+2. Sebutkan Class apa saja yang bisa dibuat dari studi kasus 1!
+3. Sebutkan atribut beserta tipe datanya yang dapat diidentifikasi dari masing-masing class dari studi kasus 1!
+4. Sebutkan method-method yang sudah anda buat dari masing-masing class pada studi kasus 1
 
-![contoh screenshot](img/Schot0.png)
+Jawab :
+1. Gambar desain class diagram Karyawan
+
+    ![contoh screenshot](img/Schot0.png)
+
+2. Karyawan
+
+3. Atribut yang ada pada class diagram Karyawan antara lain :
+   
+   a. Atribut id dengan tipe data integer
+
+   b. Atribut nama dengan tipe data String
+
+   c. Atribut jenisKelamin dengan tipe data String
+
+   d. Atribut jabatan dengan tipe data String
+
+   e. Atribut gaji dengan tipe data double
+
+4. terdapat dua method yang sudah saya buat yaitu :
+   
+   a. tampilBiodata
+
+   b. tampilGaji
+
 
 
 
@@ -97,10 +126,21 @@ Link kode program :
 ## Tugas
 
 ## Tugas1
+
+- Suatu toko persewaan video game salah satu yang diolah adalah peminjaman, dimana data yang dicatat ketika ada orang yang melakukan peminjaman adalah id, nama member, nama game, dan harga yang harus dibayar. Setiap peminjaman bisa menampilkan data hasil peminjaman dan harga yang harus dibayar. Buatlah class diagram pada studi kasus diatas! 
+ 
+    Penjelasan:
+  
+    a. Harga yang harus dibayar diperoleh dari lama sewa x harga.
+   
+    b. Diasumsikan 1x transaksi peminjaman game yang dipinjam hanya 1 game saja.
+    
 ![contoh screenshot](img/SchotT1.png)
 
 
 ### Tugas2
+
+- Buatlah program dari class diagram yang sudah anda buat di no 1!
 
 ![contoh screenshot](img/Schot3.png)
 
@@ -112,6 +152,8 @@ Link kode program :
 
 ### Tugas3
 
+- Program dari Class diagram Lingkaran
+
 ![contoh screenshot](img/Schot4.png)
 
 Link kode program :
@@ -121,6 +163,8 @@ Link kode program :
 [T3TestLingkaran181720143Irgy.java](../../src/2_Class_dan_Object/T3TestLingkaran181720143Irgy.java)
 
 ### Tugas4
+
+- Program Class diagram Barang
 
 ![contoh screenshot](img/Schot5.png)
 
@@ -132,7 +176,10 @@ Link kode program :
 
 ## Kesimpulan
 
-Fungsi dan variabel dalam sebuah objek atau class dapat saling berhubungan, sehingga akan menjadi sebuah program.
+Objek-objek ada secara independen, mempunyai aturan-aturan berkomunikasi dengan objek lain dan untuk memerintahkan objek lain guna meminta informasi tertentu atau meminta objek lain mengerjakan sesuatu. 
+Kelas bertindak sebagai modul sekaligus tipe. Cara mengetahui apa yang dideklasikasin, biasanya ditandai dengan sintak tertentu.
+Contohnya : class untuk Kelas, tipe data untuk atribut, void untuk metode, dan new untuk object
+
 
 ## Pernyataan Diri
 
