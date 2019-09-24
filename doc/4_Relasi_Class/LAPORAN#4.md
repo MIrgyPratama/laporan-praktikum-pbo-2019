@@ -94,7 +94,7 @@ tersebut?
 ## Jawab 
 1. private Mobil1841720143Irgy mobil;
    private Sopir1841720143Irgy sopir;
-2. Karena pada method hitungBayarSopirZaafril diperlukan sejumlah hari untuk menghitung hasil biaya. Sedangkan argumen hari merupakan nilai      yang ditentukan oleh user, bukan oleh objek itu sendiri
+2. Karena pada method hitungBayarSopirIrgy diperlukan sejumlah hari untuk menghitung hasil biaya. Sedangkan argumen hari merupakan nilai      yang ditentukan oleh user, bukan oleh objek itu sendiri
 3. Untuk mendapatkan masing-masing biaya sewa mobil dan biaya sewa sopir
 4. Untuk mengeset atribut mobil dan sopir pada objek p(penumpang)
 5. Untuk menghitung biaya total yang didapatkan dari penjumlahan biaya sewa mobil dan biaya sewa sopir
