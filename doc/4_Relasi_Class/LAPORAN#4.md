@@ -56,7 +56,7 @@ Berdasarkan percobaan 1, jawablah pertanyaan‑pertanyaan yang terkait:
 
 4. private Processor1841720143Irgy proc;
 
-5. Untuk memanggil method infoZaafril() yang ada pada atribut proc
+5. Untuk memanggil method infoIrgy() yang ada pada atribut proc
 
 6. p adalah objek dari processor, sama saja tidak ada perubahan 
  
