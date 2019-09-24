@@ -10,18 +10,8 @@ Setelah menempuh pokok bahasan ini, mahasiswa mampu:
 
 Pada kasus yang lebih kompleks, dalam suatu sistem akan ditemukan lebih dari satu class yang saling memiliki keterkaitan antara class satu dengan yang lain. Pada percobaan‑percobaan sebelumnya, mayoritas kasus yang sudah dikerjakan hanya fokus pada satu class saja. Pada jobsheet ini akan dilakukan percobaan yang melibatkan beberapa class yang saling berelasi. 
 
-Relasi dalam class dinyatakan dalam one‑to‑one. Tetapi ada kalanya relasi class melibatkan lebih dari satu. Hal ini disebut dengan multiplicity. Untuk relasi lebih rinci mengenai multiplicity, dapat dilihat pada tabel berikut. 
+Relasi dalam class dinyatakan dalam one‑to‑one. Tetapi ada kalanya relasi class melibatkan lebih dari satu. Hal ini disebut dengan multiplicity.
  
-|  |  |
-|--|--|
-| Multiplicity | Keterangan | 
-| 0..1 | 0 atau 1 instance | 
-| 1 | Tepat 1 instance | 
-| 0..* | 0 atau lebih instance | 
-|1..* | setidaknya 1 instance | 
-| n | Tepat n instance (n diganti dengan sebuah angka) |
-| m..n | Setidaknya m instance, tetapi tidak lebih dari n |
-
 ## Percobaan
 
 ### Percobaan 1
@@ -60,11 +50,11 @@ Berdasarkan percobaan 1, jawablah pertanyaan‑pertanyaan yang terkait:
 ## Jawab 
 1. Method setter untuk mengeset nilai dari class sedangkan method getter untuk mendapatkan nilai dari atribut class
 
-2. Perbedaan dari kedua konstruktur tersebut adalah salah satu nya memiliki parameter dan mengeset nilai atribut pada saat instansiasi, sedangkan      yg satunya merupakan konstruktor default 
+2. Perbedaan dari kedua konstruktur tersebut adalah salah satu nya memiliki parameter dan mengeset nilai atribut pada saat instansiasi, sedangkan yg satunya merupakan konstruktor default 
 
 3. Atribur proc
 
-4. private Processor1841720123Zaafril proc;
+4. private Processor1841720143Irgy proc;
 
 5. Untuk memanggil method infoZaafril() yang ada pada atribut proc
 
@@ -104,7 +94,7 @@ tersebut?
 ## Jawab 
 1. private Mobil1841720143Irgy mobil;
    private Sopir1841720143Irgy sopir;
-2. Karena pada method hitungBayarSopirZaafril diperlukan sejumlah hari untuk menghitung hasil biaya. Sedangkan argumen hari merupakan nilai yang       ditentukan oleh user, bukan oleh objek itu sendiri
+2. Karena pada method hitungBayarSopirZaafril diperlukan sejumlah hari untuk menghitung hasil biaya. Sedangkan argumen hari merupakan nilai      yang ditentukan oleh user, bukan oleh objek itu sendiri
 3. Untuk mendapatkan masing-masing biaya sewa mobil dan biaya sewa sopir
 4. Untuk mengeset atribut mobil dan sopir pada objek p(penumpang)
 5. Untuk menghitung biaya total yang didapatkan dari penjumlahan biaya sewa mobil dan biaya sewa sopir
@@ -189,7 +179,7 @@ Link kode program :
 
 2. Maksud dari kode tersebut adalah, jika penumpang tidak kosong maka akan dikeluarkan data pada class Penumpang di method infoIrgy()
 
-3. Nilai nomor dikurangi dengan angka 1 pada method setPenumpangZaafril() dikarenakan index array dimulai dari angka 0 
+3. Nilai nomor dikurangi dengan angka 1 pada method setPenumpangIrgy() dikarenakan index array dimulai dari angka 0 
 
 4. Yang terjadi adalah, data budi tetap keluar akan tetapi menggunakan kursi yang telah digunakan oleh orang lain 
 
@@ -197,7 +187,7 @@ Link kode program :
    
    ![contoh screenshot](img/MainPercobaan5.png)
 
-   Link kode program : [MainPercobaan41841720143.java](../../src/4_Relasi_Class/MainPercobaan41841720143Irgy.java)
+   Link kode program : [MainPercobaan41841720143Irgy.java](../../src/4_Relasi_Class/MainPercobaan41841720143Irgy.java)
 
 
 ## Tugas
