@@ -148,7 +148,7 @@ Link kode program :
 
 4. Class MainPertanyaan.java
 
-   ![contoh screenshot](img/MainPertanyaan4.PNG)
+   ![contoh screenshot](img/MainPertanyaan4.png)
 
    Link kode program : [MainPertanyaan1841720143Irgy.java](../../src/4_Relasi_Class/MainPertanyaan1841720143Irgy.java)
 
@@ -195,7 +195,7 @@ Link kode program :
 
 5. Class Main, MainPercobaan5.java
    
-   ![contoh screenshot](img/MainPercobaan5.PNG)
+   ![contoh screenshot](img/MainPercobaan5.png)
 
    Link kode program : [MainPercobaan41841720143.java](../../src/4_Relasi_Class/MainPercobaan41841720143Irgy.java)
 
