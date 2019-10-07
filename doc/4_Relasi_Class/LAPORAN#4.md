@@ -1,4 +1,4 @@
-# Laporan Praktikum #2 - Class dan Object
+# Laporan Praktikum #4 RELASI CLASS
 
 ## Kompetensi
 
