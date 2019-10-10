@@ -27,7 +27,7 @@ Single inheritance adalah Suatu class yang hanya mempunyai satu parent class. Mu
 
 Link kode program : [classA1841720143Irgy.java](../../src/6_Inheritance/pkg1/ClassA1841720143Irgy.java)
 
-- Class classB1841720123Zaafril.java
+- Class classB1841720143Irgy.java
 
 Link kode program : [classB1841720143Irgy.java](../../src/6_Inheritance/pkg1/classB1841720143Irgy.java)
 
