@@ -42,7 +42,7 @@ Link kode program : [Manager1841720143Irgy.java](../../src/7_Overriding_dan_Over
 - Class Utama1841720143Irgy.java
 Link kode program : [Utama1841720143Irgy.java](../../src/7_Overriding_dan_Overloading/jobsheet7/Utama1841720143Irgy.java)
 
-![contoh screenshot](img/UtamaMain.png)
+![contoh screenshot](img/utamamain.PNG)
 
 ## Latihan
 
@@ -50,7 +50,7 @@ Link kode program : [Utama1841720143Irgy.java](../../src/7_Overriding_dan_Overlo
 
 Link kode program : [Perkalianku1841720143Irgy.java](../../src/7_Overriding_dan_Overloading/jobsheet7/Perkalianku1841720143irgy.java)
 
-![contoh screenshot](img/perkalian.PNG)
+![contoh screenshot](img/Perkalian.PNG)
 
 Pertanyaan 
  
@@ -68,7 +68,7 @@ Pertanyaan
 
   Link kode program : [Perkalianku21841720143Irgy.java](../../src/7_Overriding_dan_Overloading/jobsheet7/Perkalianku21841720143Irgy.java)
 
-  [contoh screenshot](img/perkalian2.PNG)
+  [contoh screenshot](img/Perkalian2.PNG)
 
   Pertanyaan 
  
@@ -90,7 +90,7 @@ Pertanyaan
  
    - 1.  Dari source coding diatas terletak dimanakah overriding?
        Jawab: 
-       ![contoh screenshot](img/fish.PNG)
+       ![contoh screenshot](img/Fish.PNG)
 
    - 2. Jabarkanlah apabila sourcoding diatas jika terdapat overriding?
        Jawab:
