@@ -50,13 +50,13 @@ Link kode program : [Utama1841720143Irgy.java](../../src/7_Overriding_dan_Overlo
 
 Link kode program : [Perkalianku1841720143Irgy.java](../../src/7_Overriding_dan_Overloading/jobsheet7/Perkalianku1841720143irgy.java)
 
-![contoh screenshot](img/Perkalian.PNG)
+![contoh screenshot](img/Perkalian.png)
 
 Pertanyaan 
  
   - 1. Dari source coding diatas terletak dimanakah overloading?
        Jawab: 
-       ![contoh screenshot](img/jwb1.PNG)
+       ![contoh screenshot](img/jwb1.png)
 
   - 2. Jika terdapat overloading ada berapa jumlah parameter yang berbeda? 
        Jawab:
@@ -68,13 +68,13 @@ Pertanyaan
 
   Link kode program : [Perkalianku21841720143Irgy.java](../../src/7_Overriding_dan_Overloading/jobsheet7/Perkalianku21841720143Irgy.java)
 
-  [contoh screenshot](img/Perkalian2.PNG)
+  [contoh screenshot](img/Perkalian2.png)
 
   Pertanyaan 
  
    - 1. Dari source coding diatas terletak dimanakah overloading? 
        Jawab: 
-       ![contoh screenshot](img/jwb2.PNG)
+       ![contoh screenshot](img/jwb2.png)
 
    - 2. Jika terdapat overloading ada berapa tipe parameter yang berbeda? 
        Jawab:
@@ -84,13 +84,13 @@ Pertanyaan
 
   Link kode program : [Fish1841720143Irgy.java](../../src/7_Overriding_dan_Overloading/jobsheet7/Fish1841720143Irgy.java)
 
-  ![contoh screenshot](img/jwb3.PNG)
+  ![contoh screenshot](img/jwb3.png)
 
    Pertanyaan 
  
    - 1.  Dari source coding diatas terletak dimanakah overriding?
        Jawab: 
-       ![contoh screenshot](img/Fish.PNG)
+       ![contoh screenshot](img/Fish.png)
 
    - 2. Jabarkanlah apabila sourcoding diatas jika terdapat overriding?
        Jawab:
@@ -109,7 +109,7 @@ Pertanyaan
 
      Link kode program : [MainSegitiga1841720143irgy.java](../../src/7_Overriding_dan_Overloading/tugasjobsheet7/MainSegitiga1841720143irgy.java)
       
-     ![contoh screenshot](img/tgs1.PNG)
+     ![contoh screenshot](img/tgs1.png)
 
 
 2. Overriding
@@ -133,7 +133,7 @@ Pertanyaan
 
      Link kode program : [MainManusia1841720143irgy.java](../../src/7_Overriding_dan_Overloading/tugasjobsheet7/MainManusia1841720143irgy.java)
      
-    ![contoh screenshot](img/tgs2.PNG)
+    ![contoh screenshot](img/tgs2.png)
   
 
 
