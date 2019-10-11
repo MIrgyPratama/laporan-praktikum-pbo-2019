@@ -42,7 +42,7 @@ Link kode program : [Manager1841720143Irgy.java](../../src/7_Overriding_dan_Over
 - Class Utama1841720143Irgy.java
 Link kode program : [Utama1841720143Irgy.java](../../src/7_Overriding_dan_Overloading/jobsheet7/Utama1841720143Irgy.java)
 
-![contoh screenshot](img/utamamain.PNG)
+![contoh screenshot](img/utamamain.png)
 
 ## Latihan
 
