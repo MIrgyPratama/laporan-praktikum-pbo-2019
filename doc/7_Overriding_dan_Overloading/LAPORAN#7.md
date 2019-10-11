@@ -31,9 +31,9 @@ e. Mengimplementasikan method overloading dan overriding
 
 Link kode program : [classKaryawan1841720143Irgy.java](../../src/7_Overriding_dan_Overloading/jobsheet7/ClassKaryawan1841720143Irgy.java)
 
-- Class classStaff1841720123Zaafril.java
+- Class classStaff1841720143Irgy.java
 
-Link kode program : [classStaff1841720123Zaafril.java](../../src/7_Overriding_dan_Overloading/jobsheet7/classStaff1841720143Irgy.java)
+Link kode program : [classStaff1841720143Irgy.java](../../src/7_Overriding_dan_Overloading/jobsheet7/classStaff1841720143Irgy.java)
 
 - Class Manager1841720143Irgy.java
 
