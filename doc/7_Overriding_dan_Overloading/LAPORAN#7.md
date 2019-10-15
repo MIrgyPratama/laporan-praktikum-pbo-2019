@@ -68,7 +68,7 @@ Pertanyaan
 
   Link kode program : [Perkalianku21841720143Irgy.java](../../src/7_Overriding_dan_Overloading/jobsheet7/Perkalianku21841720143Irgy.java)
 
-  [contoh screenshot](img/perkalian2.png)
+  [contoh screenshot](img/Perkalian2.png)
 
   Pertanyaan 
  
