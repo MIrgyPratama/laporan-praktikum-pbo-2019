@@ -141,7 +141,8 @@ memberikan sertifikat mawapres pada objek sarjanaCumlaude.
   
 ## Kesimpulan
 
-Saya dapat memahami fungsi dan pengaplikasian abstarct dan implementasi , walupun sebelumnnya agak bingung. 
+Setelah mempelajari dan mecoba praktikum yang diberikan di dalam jobsheet 9, saya dapat mengetahui : 
+Abstract Class adalah class yang tidak dapat diinstansiasi namun dapat di-extend. Abstract class baru dapat dimanfaatkan ketika ia di-      extend. dan juga i Interface adalah struktur data yang hanya berisi abstract methods. Tidak masalah selain method abstract pada interface, termasuk atribut getter dan setter.  Saya harap pengaplikasian abstract dan interface dapat berguna pada tahap selanjutnnya.
 
 
 ## Pernyataan Diri
