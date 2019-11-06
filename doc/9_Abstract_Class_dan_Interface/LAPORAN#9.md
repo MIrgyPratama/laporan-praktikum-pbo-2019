@@ -141,9 +141,7 @@ memberikan sertifikat mawapres pada objek sarjanaCumlaude.
   
 ## Kesimpulan
 
-a. Kita Dapat Memahami maksud dan tujuan penggunaan Abstract Class
-b. Kita Dapat Memahami maksud dan tujuan penggunaan Interface, 
-c. Kita Dapat Menerapkan Abstract Class dan Interface di dalam pembuatan program
+Saya dapat memahami fungsi dan pengaplikasian abstarct dan implementasi , walupun sebelumnnya agak bingung. 
 
 
 ## Pernyataan Diri
