@@ -118,7 +118,7 @@ Link kode program : [Owner1841720143Irgy.java](../../src/10_Polimorfisme/Owner18
  2. Modifikasi program untuk menambahkan komponen JTable pada tab Halaman 1 dan tab Halaman 2 
     Jawab :
 
-    ![contoh screenshot](img/pcb5.png)
+    ![contoh screenshot](img/pcb.png)
 
 ### Tugas
 
