@@ -18,17 +18,17 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 
 ### Percobaan 1
 
-![contoh screenshot](img/pcb1.PNG)
+![contoh screenshot](img/pcb1.png)
 
 Link kode program : [dbperpus.sql](../../src/14_GUI_dan_Database/dbperpus.sql)
 
 ### Percobaan 2
 
-![contoh screenshot](img/pcb2.PNG)
+![contoh screenshot](img/pcb2.png)
 
 ### Percobaan 3
 
-![contoh screenshot](img/pcb3.PNG)
+![contoh screenshot](img/pcb3.png)
 
 
 Link kode program: [DBHelper1841720143Irgy.java](../../src/14_GUI_dan_Database/backend/DBHelper1841720143Irgy.java)
@@ -36,7 +36,7 @@ Link kode program: [DBHelper1841720143Irgy.java](../../src/14_GUI_dan_Database/b
 
 ### Percobaan 4
 
-![contoh screenshot](img/pcb4.PNG)
+![contoh screenshot](img/pcb4.png)
 
 
 Link kode program: [Kategori1841720143Irgy.java](../../src/14_GUI_dan_Database/backend/Kategori1841720143Irgy.java)
@@ -44,33 +44,33 @@ Link kode program: [Kategori1841720143Irgy.java](../../src/14_GUI_dan_Database/b
 
 ### Percobaan 5
 
-![contoh screenshot](img/pcb5.PNG)
+![contoh screenshot](img/pcb5.png)
 
 Link kode program: [TestBackend1841720143Irgy.java](../../src/14_GUI_dan_Database/frontend/TestBackend1841720143Irgy.java)
 
 ### 3.6Percobaan 6
  
 - tambah baru
-![contoh screenshot](img/pcb6tambah.PNG)
+![contoh screenshot](img/pcb6tambah.png)
 
 - hapus
-![contoh screenshot](img/pcb6hapus.PNG)
+![contoh screenshot](img/pcb6hapus.png)
 
 - cari
-![contoh screenshot](img/pcb6cari.PNG) 
+![contoh screenshot](img/pcb6cari.png) 
 
 Link kode program: [FrmKategori1841720143Irgy.java](../../src/14_GUI_dan_Database/frontend/FrmKategori1841720143Irgy.java)
 
 ### 3.6Percobaan 6
 
-![contoh screenshot](img/pcb66.PNG)
+![contoh screenshot](img/pcb66.png)
 
 
 Link kode program: [Anggota1841720143Irgy.java](../../src/14_GUI_dan_Database/backend/Anggota1841720143Irgy.java)
 
 ### 3.7Percobaan 7
 
-![contoh screenshot](img/pcb7.PNG)
+![contoh screenshot](img/pcb7.png)
 
 Link kode program: [FrmAnggota1841720143Irgy.java](../../src/14_GUI_dan_Database/frontend/FrmAnggota1841720143Irgy.java)
 
@@ -82,10 +82,10 @@ Link kode program: [Buku1841720143Irgy.java](../../src/14_GUI_dan_Database/backe
 ### 3.8Percobaan 8
 
 - Tambah Baru
-![contoh screenshot](img/pcb8tambah.PNG)
+![contoh screenshot](img/pcb8tambah.png)
 
 - Cari
-![contoh screenshot](img/pcb8cari.PNG)
+![contoh screenshot](img/pcb8cari.png)
 
 Link kode program: [Buku1841720143Irgy.java](../../src/14_GUI_dan_Database/backend/Buku1841720143Irgy.java)
 
@@ -96,7 +96,7 @@ Link kode program: [FrmBuku1841720143form.java](../../src/14_GUI_dan_Database/fr
 
 ### Tugas
 
-![contoh screenshot](img/pcb8cari.PNG)
+![contoh screenshot](img/pcb8cari.png)
 
 Link kode program: [FrmPeminjaman1841720143Irgy.java](../../src/14_GUI_dan_Database/frontend/FrmPeminjaman1841720143Irgy.java)
 
